@@ -5,5 +5,4 @@ Python, Django, Django REST Framework, REST API, PostgreSQL, Docker, Docker-comp
 ### Контакты
 Телеграм: https://t.me/shakdv
 
-
 Почта: dima@shakhlin.ru
